@@ -4,7 +4,7 @@
 
 ## Instructions
 
-* Download the .crx file <a class="minibutton" href="http://goo.gl/adqX46" target="_blank">here</a>.
+* Download the .crx file <a class="minibutton" href="http://goo.gl/VIVqdg" target="_blank">here</a>.
 * Open the setting page in Google Chrome.
 * Click on "Extensions" on top left.
 * Drag and drop the downloaded file on "extensions" page.
@@ -14,7 +14,7 @@
 
 ####This extension/website can only serve you "GET" requests. No form data or "POST" requests can be submitted.
 
-Try TV Show Manager App <a target="_blank" href="http://goo.gl/qx8mS0">[Here]</a>
+Try TV Show Manager App <a target="_blank" href="http://goo.gl/tS0t13">[Here]</a>
 
 Link to this page: [Auto Bypass](http://goo.gl/c969Qa)
 
